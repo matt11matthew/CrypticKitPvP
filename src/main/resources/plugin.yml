@@ -1,0 +1,5 @@
+name: CrypticKitPvP
+version: ${project.version}
+main: com.cryptickits.kitpvp.CrypticKitPvP
+authors: [matt11matthew]
+description: Cryptic Kits's Kit PvP plugin by Matthew E or matt11matthew
